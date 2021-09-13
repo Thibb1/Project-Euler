@@ -10,6 +10,7 @@
 
 🟥 Not started
 
+![SVG](donut-chart.svg)
 
 | Num | Pbl | ❓ | Num | Pbl | ❓ | Num | Pbl | ❓ | Num | Pbl | ❓ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
