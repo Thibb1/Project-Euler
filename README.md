@@ -1,9 +1,13 @@
 # Project-Euler
 
 🟩 Solved on [HackerRank](https://www.hackerrank.com/contests/projecteuler) and on [ProjectEuler](https://projecteuler.net)
+
 🟦 Solved on ProjectEuler
+
 🟨 Partialy solved or started
+
 🟧 Solved but exeed RAM or time limit
+
 🟥 Not started
 
 
